@@ -1,5 +1,5 @@
 # Projet-de-fin-d'étude
-De l'apprentissage vers l'Apprentissage profond (Classification des images)
+De l'apprentissage normal vers l'Apprentissage profond (Classification des images)
 
 Ce travail entre dans le cadre du projet de fin d’étude en vue d’obtention du diplôme de licence en sciences mathématiques et informatiques effectuée au département d’Informatiques à la faculté des Sciences Semlalia de l’Université Cadi Ayyad de Marrakech.
 
